@@ -1,0 +1,2 @@
+# SMS-Fuzzing
+ Generator creates SMS messages that are being send to Injectord on the phone . After SMS injection, you can overview system logs using logcat ADB command. if needs must you   write results of logcat and content of SMS  and go to the next test case.After each test case system logs will be cleaned and you  can go to the next test case. Each 50 messages  entire SMS database will be deleted  and you must restart SMS  program  on your Android device  
