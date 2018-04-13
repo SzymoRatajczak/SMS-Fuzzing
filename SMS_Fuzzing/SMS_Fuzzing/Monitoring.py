@@ -1,5 +1,5 @@
-#after inject of SMS  i overview system logs  ( using logcat ADB command)
-#If logs have native errors or Java's exceptions ,i will write results of
+#after injection of SMS  i overview system logs  ( using logcat ADB command)
+#If logs have native errors or Java's exceptions ,i will write results in
 #logcat command and content of SMS  for this test case
 #After each test case i clean system logs and go to the next test case 
 #Each 50 messages  entire SMS database will be deleted and program will be restared 
