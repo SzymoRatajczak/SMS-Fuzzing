@@ -1,6 +1,6 @@
-#Sends message to Injectord on mobile phone
+#Sends message to 'Injectord' function on mobile phone
 #Injectord is listenning on TCP port no.4242 and waiting for +CMT communciat
-#this cmmunicat is made of two lines
+#this communicat is made of two lines
 #first line: length
 #second line: message encoded by hex
 
