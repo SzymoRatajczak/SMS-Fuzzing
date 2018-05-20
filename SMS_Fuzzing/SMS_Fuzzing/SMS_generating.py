@@ -1,8 +1,8 @@
-#it generates SMS  with from one to ten UDH elements
+#it generates SMS  contains from one to ten UDH elements
 #each element has random length and type 
 #the rest of element is filled up with random data 
 #messages created on that way are saved into file and next send to the destination
-#Such messages may be sent to any mobile phone with Injectiond function ON 
+#Such messages may be sent to any mobile phone with 'Injectiond' function ON 
 
 import os 
 import sys
